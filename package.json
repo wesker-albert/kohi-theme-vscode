@@ -1,0 +1,21 @@
+{
+  "name": "kohi",
+  "displayName": "Kohi",
+  "description": "A coffee inspired color theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kohi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kohi-color-theme.json"
+      }
+    ]
+  }
+}
