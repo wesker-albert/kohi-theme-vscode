@@ -6,6 +6,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.0] - 2023-04-21
+
+### ADDED
+
+- Advanced color rules for GUI
+- Custom colors for major token types
+
 ## [0.0.1] - 2023-04-19
 
 ### ADDED
