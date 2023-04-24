@@ -49,6 +49,8 @@
 		"editorBracketHighlight.foreground2": "#B975C3",
 		"editorBracketHighlight.foreground3": "#8891CD",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#C11919",
+		"editorBracketMatch.background": "#302A21",
+		"editorBracketMatch.border": "#5F4F4375",
 		"editorCursor.foreground": "#DDDDDD",
 		"editorError.foreground": "#C11919",
 		"editorGroup.border": "#5F4F4399",
@@ -205,7 +207,7 @@
 		"tree.indentGuidesStroke": "#8C944065",
 		"tree.tableColumnsBorder": "#5F4F4345",
 		"tree.tableOddRowsBackground": "#302A21",
-		"widget.shadow": "#00000075",
+		"widget.shadow": "#00000075"
 	},
 	"tokenColors": [
 		{
