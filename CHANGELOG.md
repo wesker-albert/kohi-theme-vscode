@@ -6,6 +6,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.1.0] - 2023-04-23
+
+### ADDED
+
+- Colors for overlooked GUI elements
+
+### CHANGED
+
+- A handfull of element colors that looked off
+
 ## [1.0.0] - 2023-04-21
 
 ### ADDED
