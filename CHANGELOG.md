@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.2.1] - 2023-05-14
+
+### CHANGED
+
+- Darkened some element colors, to provide more contrast
+
 ## [1.1.0] - 2023-04-23
 
 ### ADDED
