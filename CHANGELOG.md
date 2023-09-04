@@ -17,6 +17,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Fixed a few rule deprecations
 - Updated installation instructions
+- Update screenshot
 
 ## [1.2.1] - 2023-09-03
 
