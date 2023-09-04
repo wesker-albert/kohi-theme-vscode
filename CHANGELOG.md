@@ -11,6 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Testing icon, message, and border colors
 - Git decoration colors
 - Input option and text selection colors
+- Terminal command decoration colors
 
 ### CHANGED
 
