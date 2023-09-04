@@ -4,9 +4,26 @@ All notable changes to the "kohi" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.3.0] - 2023-09-03
 
-## [1.2.1] - 2023-05-14
+### ADDED
+
+- Testing icon, message, and border colors
+- Git decoration colors
+- Input option and text selection colors
+
+### CHANGED
+
+- Fixed a few rule deprecations
+- Updated installation instructions
+
+## [1.2.1] - 2023-09-03
+
+### CHANGED
+
+- Updated screenshot, fixed package version
+
+## [1.2.0] - 2023-05-14
 
 ### CHANGED
 

@@ -3,7 +3,7 @@
   "displayName": "Kohi",
   "description": "A coffee inspired color theme.",
   "repository": {"url": "https://github.com/wesker-albert/kohi-theme-vscode"},
-  "version": "1.2.1",
+  "version": "1.2.2",
   "engines": {
     "vscode": "^1.77.0"
   },
