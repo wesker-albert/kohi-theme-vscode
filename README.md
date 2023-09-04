@@ -13,7 +13,7 @@ Earthy grounds, with a cheeky sprinkle of matcha.
 Clone the repo to your VS Code extensions folder.
 
 ```bash
-git clone https://github.com/wesker-albert/kohi-theme-vscode.git ~/.vscode/extensions/kohi-theme-vscode
+git clone https://github.com/wesker-albert/kohi-theme-vscode.git ~/.vscode/extensions/kohi-theme-vscode-1.3.0
 ```
 
 ## Documentation
