@@ -4,6 +4,12 @@ All notable changes to the "kohi" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.3.1] - 2023-09-04
+
+### ADDED
+
+- Supplemental settings configuration
+
 ## [1.3.0] - 2023-09-03
 
 ### ADDED

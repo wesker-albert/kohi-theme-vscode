@@ -1,0 +1,26 @@
+{
+    "coverage-gutters.highlightdark": "#909d6210",
+    "coverage-gutters.highlightlight": "#909d6210",
+    "coverage-gutters.noHighlightDark": "#bb565320",
+    "coverage-gutters.noHighlightLight": "#bb565320",
+    "coverage-gutters.partialHighlightDark": "#eac17920",
+    "coverage-gutters.partialHighlightLight": "#eac17920",
+    "coverage-gutters.showGutterCoverage": false,
+    "coverage-gutters.showLineCoverage": true,
+    "errorLens.borderRadius": "1px",
+    "errorLens.fontStyleItalic": true,
+    "errorLens.messageBackgroundMode": "message",
+    "errorLens.messageTemplate": " $message ",
+    "workbench.colorCustomizations": {
+        "errorLens.errorForeground": "#CC6666",
+        "errorLens.errorMessageBackground": "#A5424250",
+        "errorLens.hintForeground": "#88CBC3",
+        "errorLens.hintMessageBackground": "#88CBC350",
+        "errorLens.infoForeground": "#7780C4",
+        "errorLens.infoMessageBackground": "#7780C450",
+        "errorLens.warningForeground": "#C1A561",
+        "errorLens.warningMessageBackground": "#C1A56150"
+    },
+    "workbench.iconTheme": "gruvbox-material-icon-theme",
+    "workbench.productIconTheme": "material-product-icons"
+}
